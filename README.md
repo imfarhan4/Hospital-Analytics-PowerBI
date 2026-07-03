@@ -47,13 +47,13 @@ This project is an interactive Hospital Analytics Dashboard built using Power BI
 ## 📈 Dashboard Preview
 
 ### Overall Dashboard
-![Overview](screenshots/overview.png)
+![Overview](screenshots/overview.jpg)
 
 ### Patients Dashboard
-![Patients](screenshots/patients.png)
+![Patients](screenshots/patients.jpg)
 
 ### Finance Dashboard
-![Finance](screenshots/finance.png)
+![Finance](screenshots/finance.jpg)
 
 ---
 
